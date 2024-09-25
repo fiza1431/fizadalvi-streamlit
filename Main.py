@@ -4,6 +4,7 @@ import pandas as pd # type: ignore
 import os
 import json
 import datetime
+import plotly
 import plotly.express as px
 
 
